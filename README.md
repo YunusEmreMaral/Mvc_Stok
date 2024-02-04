@@ -10,11 +10,12 @@
 - ASP.NET MVC
 - C#
 - Entity Framework
+- MSSQL 
 - Bootstrap
 - Validation
 - Paging
 - Popup
-  
+
 
 ## Proje Videosu
 
